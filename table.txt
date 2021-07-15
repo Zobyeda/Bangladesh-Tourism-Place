@@ -1,0 +1,400 @@
+<div id="table"><h3>Tangail Polytechnic Institute</h3></div>
+
+<table>
+  <tr>
+    <th>SL</th>
+    <th>Pic</th>
+    <th>Name</th>
+    <th>Address</th>
+  </tr>
+  <tr>
+    <center><td>1</td>
+    <td><img src="img/img.png" height="100px" align="middle"/></td>
+    <td>joe</td>
+	<td>Dewla,Tangail<br>01717628863</td></center>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><img src="img/img.png" height="100px" align="middle"/></td>
+    <td>Griffin</td>
+    <td>Dewla,Tangail<br>01717628863</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><img src="img/img.png" height="100px" align="middle"/></td>
+    <td>Swan</td>
+    <td>Dewla,Tangail<br>01717628863</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><img src="img/img.png" height="100px" align="middle"/></td>
+    <td>Brown</td>
+    <td>Dewla,Tangail<br>01717628863</td>
+</tr>
+</table>
+
+<div id="table"><h3>copyright</h3></div>
+
+
+
+
+//
+
+
+
+
+
+
+#table
+{
+margin:0 auto;
+padding:6px;
+background-color:#4CAE50;
+border:1px #3FBA64 solid;
+text-align:center;
+width:69%;
+}
+
+td ,th
+{
+border: 1px solid #3FBA64;
+text-align:center;
+font-style:italic;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+table 
+{
+border-collapse: collapse;
+margin:0 auto;
+width: 70%;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+barishal///
+
+
+
+
+
+
+<section class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/Guthia_mosque,Barisal.png">
+				</div>
+				
+				<div class="subtitle">
+				  Gutihia Mosque
+				</div>
+			</section>
+			
+			<section class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/bells.png">
+				</div>
+				
+				<div class="subtitle">
+				  Bells Park
+				</div>
+			</section>
+			
+			<section class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/cathedral.png">
+				</div>
+				
+				<div class="subtitle">
+				  Epiphany Cathedral
+				</div>
+			</section>
+</section>
+	
+
+
+
+
+			
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/30godown.png">
+				</div>
+				
+				<div class="subtitle">
+				  30 Godown
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/Bibir-Pukur.png">
+				</div>
+				
+				<div class="subtitle">
+				  Bibir Pukur
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/freedom.png">
+				</div>
+				
+				<div class="subtitle">
+				  Barishal Freedom Fighters Park
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/durga-sagar.png">
+				</div>
+				
+				<div class="subtitle">
+				  Durga Sagar
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/lakutia-jamidar-bari.png">
+				</div>
+				
+				<div class="subtitle">
+				  Lakutia Zamindar Bari(Babur Bari)
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/museum.png">
+				</div>
+				
+				<div class="subtitle">
+				  Barishal Divisional Museum
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/miahBari.png">
+				</div>
+				
+				<div class="subtitle">
+				  Miah Bari Mosque
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/planet.png">
+				</div>
+				
+				<div class="subtitle">
+				  Planet Park
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/koloskati.png">
+				</div>
+				
+				<div class="subtitle">
+				  Koloskathi Zamindar Bari
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/Padma_Pukur,_Barisal.png">
+				</div>
+				
+				<div class="subtitle">
+				  Padma Pukur
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/Floating_Guava_Market_Atghoria.png">
+				</div>
+				
+				<div class="subtitle">
+				  Kurian, Swarupkati, Pirojpur
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/rajaram.png">
+				</div>
+				
+				<div class="subtitle">
+				  Rajaram Mandir, Madaripur
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/kalkini.png">
+				</div>
+				
+				<div class="subtitle">
+				  Kalkini, Madaripur
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/Sondha_river_Barisal.png">
+				</div>
+				
+				<div class="subtitle">
+				  Sandha River, Babuganj, Barishal
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content-wrapper">
+	<div class="content-items-wrapper">
+		<div class="content-item-wrapper">
+			<div class="content-img-background" style="background-image:url(img/content.jpg)"></div>
+			
+			<div class="img-text-wrapper">
+				<div class="img-logo">
+					<img src="img/boitakhata.png">
+				</div>
+				
+				<div class="subtitle">
+				  The Boithakata Bazar
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</body>
+</html>
